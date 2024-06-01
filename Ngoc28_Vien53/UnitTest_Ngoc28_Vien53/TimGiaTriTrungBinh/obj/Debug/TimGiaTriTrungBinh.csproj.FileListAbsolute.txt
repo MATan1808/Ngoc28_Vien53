@@ -1,0 +1,10 @@
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TimGiaTriTrungBinh\obj\Debug\TimGiaTriTrungBinh.csproj.AssemblyReference.cache
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TimGiaTriTrungBinh\obj\Debug\TimGiaTriTrungBinh.Form1.resources
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TimGiaTriTrungBinh\obj\Debug\TimGiaTriTrungBinh.Properties.Resources.resources
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TimGiaTriTrungBinh\obj\Debug\TimGiaTriTrungBinh.csproj.GenerateResource.cache
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TimGiaTriTrungBinh\obj\Debug\TimGiaTriTrungBinh.csproj.CoreCompileInputs.cache
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TimGiaTriTrungBinh\bin\Debug\TimGiaTriTrungBinh.exe.config
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TimGiaTriTrungBinh\bin\Debug\TimGiaTriTrungBinh.exe
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TimGiaTriTrungBinh\bin\Debug\TimGiaTriTrungBinh.pdb
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TimGiaTriTrungBinh\obj\Debug\TimGiaTriTrungBinh.exe
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TimGiaTriTrungBinh\obj\Debug\TimGiaTriTrungBinh.pdb

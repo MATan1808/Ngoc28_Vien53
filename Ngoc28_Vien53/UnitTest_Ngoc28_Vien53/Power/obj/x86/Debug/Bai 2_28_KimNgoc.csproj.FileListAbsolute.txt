@@ -1,0 +1,10 @@
+C:\Users\maclife\source\repos\Ngoc\Bai 2_28_KimNgoc\bin\x86\Debug\Bai 2_28_KimNgoc.exe.config
+C:\Users\maclife\source\repos\Ngoc\Bai 2_28_KimNgoc\bin\x86\Debug\Bai 2_28_KimNgoc.exe
+C:\Users\maclife\source\repos\Ngoc\Bai 2_28_KimNgoc\bin\x86\Debug\Bai 2_28_KimNgoc.pdb
+C:\Users\maclife\source\repos\Ngoc\Bai 2_28_KimNgoc\obj\x86\Debug\Bai 2_28_KimNgoc.csproj.AssemblyReference.cache
+C:\Users\maclife\source\repos\Ngoc\Bai 2_28_KimNgoc\obj\x86\Debug\Bai_2_28_KimNgoc.Form1.resources
+C:\Users\maclife\source\repos\Ngoc\Bai 2_28_KimNgoc\obj\x86\Debug\Bai_2_28_KimNgoc.Properties.Resources.resources
+C:\Users\maclife\source\repos\Ngoc\Bai 2_28_KimNgoc\obj\x86\Debug\Bai 2_28_KimNgoc.csproj.GenerateResource.cache
+C:\Users\maclife\source\repos\Ngoc\Bai 2_28_KimNgoc\obj\x86\Debug\Bai 2_28_KimNgoc.csproj.CoreCompileInputs.cache
+C:\Users\maclife\source\repos\Ngoc\Bai 2_28_KimNgoc\obj\x86\Debug\Bai 2_28_KimNgoc.exe
+C:\Users\maclife\source\repos\Ngoc\Bai 2_28_KimNgoc\obj\x86\Debug\Bai 2_28_KimNgoc.pdb

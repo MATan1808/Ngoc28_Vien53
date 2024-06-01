@@ -1,0 +1,33 @@
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\Test.dll
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\Test.pdb
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\Bai 2_28_KimNgoc.exe
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\GiaiPhuongTrinhBac1va2.exe
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\KiemTraDauVaoEmail.exe
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\KiemTraSoNguyenTo.exe
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\TimGiaTriTrungBinh.exe
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\XetHocBong.exe
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\Bai 2_28_KimNgoc.pdb
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\Bai 2_28_KimNgoc.exe.config
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\GiaiPhuongTrinhBac1va2.pdb
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\GiaiPhuongTrinhBac1va2.exe.config
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\KiemTraDauVaoEmail.pdb
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\KiemTraDauVaoEmail.exe.config
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\KiemTraSoNguyenTo.pdb
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\KiemTraSoNguyenTo.exe.config
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\TimGiaTriTrungBinh.pdb
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\TimGiaTriTrungBinh.exe.config
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\XetHocBong.pdb
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\XetHocBong.exe.config
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\bin\x86\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\obj\x86\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\obj\x86\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\obj\x86\Debug\Test.csproj.Up2Date
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\obj\x86\Debug\Test.dll
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\Test\obj\x86\Debug\Test.pdb

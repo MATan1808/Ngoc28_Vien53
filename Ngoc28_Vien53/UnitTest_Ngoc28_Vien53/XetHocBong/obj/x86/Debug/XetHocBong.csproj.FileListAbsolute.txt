@@ -1,0 +1,10 @@
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\bin\x86\Debug\XetHocBong.exe.config
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\bin\x86\Debug\XetHocBong.exe
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\bin\x86\Debug\XetHocBong.pdb
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\obj\x86\Debug\XetHocBong.csproj.AssemblyReference.cache
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\obj\x86\Debug\XetHocBong.Form1.resources
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\obj\x86\Debug\XetHocBong.Properties.Resources.resources
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\obj\x86\Debug\XetHocBong.csproj.GenerateResource.cache
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\obj\x86\Debug\XetHocBong.csproj.CoreCompileInputs.cache
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\obj\x86\Debug\XetHocBong.exe
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\obj\x86\Debug\XetHocBong.pdb

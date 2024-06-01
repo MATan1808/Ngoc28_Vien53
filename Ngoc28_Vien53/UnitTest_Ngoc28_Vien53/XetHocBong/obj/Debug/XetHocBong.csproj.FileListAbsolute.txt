@@ -1,0 +1,10 @@
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\bin\Debug\XetHocBong.exe.config
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\bin\Debug\XetHocBong.exe
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\bin\Debug\XetHocBong.pdb
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\obj\Debug\XetHocBong.csproj.AssemblyReference.cache
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\obj\Debug\XetHocBong.Form1.resources
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\obj\Debug\XetHocBong.Properties.Resources.resources
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\obj\Debug\XetHocBong.csproj.GenerateResource.cache
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\obj\Debug\XetHocBong.csproj.CoreCompileInputs.cache
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\obj\Debug\XetHocBong.exe
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\XetHocBong\obj\Debug\XetHocBong.pdb

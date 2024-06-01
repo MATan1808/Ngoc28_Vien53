@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UnitTest_Ngoc28_Vien53\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2D6816-A9EA-4211-AD1C-9F08E03104B3}|Test\\UnitTest_Ngoc28_Vien53.csproj|c:\\unittest_ngoc28_vien53\\test\\testsonguyento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2D6816-A9EA-4211-AD1C-9F08E03104B3}|Test\\UnitTest_Ngoc28_Vien53.csproj|solutionrelative:test\\testsonguyento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B2ADB6-2D14-4773-80C4-D035FAAD517F}|KiemTraSoNguyenTo\\KiemTraSoNguyenTo_Ngoc28_Vien53.csproj|C:\\UnitTest_Ngoc28_Vien53\\kiemtrasonguyento\\songuyento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B2ADB6-2D14-4773-80C4-D035FAAD517F}|KiemTraSoNguyenTo\\KiemTraSoNguyenTo_Ngoc28_Vien53.csproj|solutionrelative:kiemtrasonguyento\\songuyento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B9836D-5B7F-40CE-BB8B-FF644FCAF410}|KiemTraDauVaoEmail\\KiemTraDauVaoEmail_Ngoc28_Vien53.csproj|C:\\UnitTest_Ngoc28_Vien53\\kiemtradauvaoemail\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95B9836D-5B7F-40CE-BB8B-FF644FCAF410}|KiemTraDauVaoEmail\\KiemTraDauVaoEmail_Ngoc28_Vien53.csproj|solutionrelative:kiemtradauvaoemail\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B2ADB6-2D14-4773-80C4-D035FAAD517F}|KiemTraSoNguyenTo\\KiemTraSoNguyenTo_Ngoc28_Vien53.csproj|C:\\UnitTest_Ngoc28_Vien53\\kiemtrasonguyento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B2ADB6-2D14-4773-80C4-D035FAAD517F}|KiemTraSoNguyenTo\\KiemTraSoNguyenTo_Ngoc28_Vien53.csproj|solutionrelative:kiemtrasonguyento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B2ADB6-2D14-4773-80C4-D035FAAD517F}|KiemTraSoNguyenTo\\KiemTraSoNguyenTo_Ngoc28_Vien53.csproj|C:\\UnitTest_Ngoc28_Vien53\\kiemtrasonguyento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86B2ADB6-2D14-4773-80C4-D035FAAD517F}|KiemTraSoNguyenTo\\KiemTraSoNguyenTo_Ngoc28_Vien53.csproj|solutionrelative:kiemtrasonguyento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B9836D-5B7F-40CE-BB8B-FF644FCAF410}|KiemTraDauVaoEmail\\KiemTraDauVaoEmail_Ngoc28_Vien53.csproj|C:\\UnitTest_Ngoc28_Vien53\\kiemtradauvaoemail\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B9836D-5B7F-40CE-BB8B-FF644FCAF410}|KiemTraDauVaoEmail\\KiemTraDauVaoEmail_Ngoc28_Vien53.csproj|solutionrelative:kiemtradauvaoemail\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DACFB0F-ED60-4C59-97D5-0C6FF3EC9B1D}|GiaiPhuongTrinhBac1va2\\GiaiPhuongTrinhBac2_Ngoc28_Vien53.csproj|C:\\UnitTest_Ngoc28_Vien53\\giaiphuongtrinhbac1va2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DACFB0F-ED60-4C59-97D5-0C6FF3EC9B1D}|GiaiPhuongTrinhBac1va2\\GiaiPhuongTrinhBac2_Ngoc28_Vien53.csproj|solutionrelative:giaiphuongtrinhbac1va2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DACFB0F-ED60-4C59-97D5-0C6FF3EC9B1D}|GiaiPhuongTrinhBac1va2\\GiaiPhuongTrinhBac2_Ngoc28_Vien53.csproj|C:\\UnitTest_Ngoc28_Vien53\\giaiphuongtrinhbac1va2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DACFB0F-ED60-4C59-97D5-0C6FF3EC9B1D}|GiaiPhuongTrinhBac1va2\\GiaiPhuongTrinhBac2_Ngoc28_Vien53.csproj|solutionrelative:giaiphuongtrinhbac1va2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestSoNguyenTo.cs",
+              "DocumentMoniker": "C:\\UnitTest_Ngoc28_Vien53\\Test\\TestSoNguyenTo.cs",
+              "RelativeDocumentMoniker": "Test\\TestSoNguyenTo.cs",
+              "ToolTip": "C:\\UnitTest_Ngoc28_Vien53\\Test\\TestSoNguyenTo.cs",
+              "RelativeToolTip": "Test\\TestSoNguyenTo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:15:37.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoNguyenTo.cs",
+              "DocumentMoniker": "C:\\UnitTest_Ngoc28_Vien53\\KiemTraSoNguyenTo\\SoNguyenTo.cs",
+              "RelativeDocumentMoniker": "KiemTraSoNguyenTo\\SoNguyenTo.cs",
+              "ToolTip": "C:\\UnitTest_Ngoc28_Vien53\\KiemTraSoNguyenTo\\SoNguyenTo.cs",
+              "RelativeToolTip": "KiemTraSoNguyenTo\\SoNguyenTo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:57:44.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UnitTest_Ngoc28_Vien53\\KiemTraSoNguyenTo\\Program.cs",
+              "RelativeDocumentMoniker": "KiemTraSoNguyenTo\\Program.cs",
+              "ToolTip": "C:\\UnitTest_Ngoc28_Vien53\\KiemTraSoNguyenTo\\Program.cs",
+              "RelativeToolTip": "KiemTraSoNguyenTo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:57:41.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\UnitTest_Ngoc28_Vien53\\KiemTraSoNguyenTo\\Form1.cs",
+              "RelativeDocumentMoniker": "KiemTraSoNguyenTo\\Form1.cs",
+              "ToolTip": "C:\\TimGiaTriTrungBinh\\KiemTraSoNguyenTo\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\TimGiaTriTrungBinh\\KiemTraSoNguyenTo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:57:39.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\UnitTest_Ngoc28_Vien53\\KiemTraDauVaoEmail\\Form1.cs",
+              "RelativeDocumentMoniker": "KiemTraDauVaoEmail\\Form1.cs",
+              "ToolTip": "C:\\UnitTest_Ngoc28_Vien53\\KiemTraDauVaoEmail\\Form1.cs",
+              "RelativeToolTip": "KiemTraDauVaoEmail\\Form1.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:50:43.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\UnitTest_Ngoc28_Vien53\\KiemTraDauVaoEmail\\Form1.cs",
+              "RelativeDocumentMoniker": "KiemTraDauVaoEmail\\Form1.cs",
+              "ToolTip": "C:\\TimGiaTriTrungBinh\\KiemTraDauVaoEmail\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\TimGiaTriTrungBinh\\KiemTraDauVaoEmail\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:49:30.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\UnitTest_Ngoc28_Vien53\\GiaiPhuongTrinhBac1va2\\Form1.cs",
+              "RelativeDocumentMoniker": "GiaiPhuongTrinhBac1va2\\Form1.cs",
+              "ToolTip": "C:\\UnitTest_Ngoc28_Vien53\\GiaiPhuongTrinhBac1va2\\Form1.cs",
+              "RelativeToolTip": "GiaiPhuongTrinhBac1va2\\Form1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:43:29.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\UnitTest_Ngoc28_Vien53\\GiaiPhuongTrinhBac1va2\\Form1.cs",
+              "RelativeDocumentMoniker": "GiaiPhuongTrinhBac1va2\\Form1.cs",
+              "ToolTip": "C:\\TimGiaTriTrungBinh\\GiaiPhuongTrinhBac1va2\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\TimGiaTriTrungBinh\\GiaiPhuongTrinhBac1va2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:41:09.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\TimGiaTriTrungBinh\KiemTraSoNguyenTo\bin\x86\Debug\KiemTraSoNguyenTo.exe.config
+C:\TimGiaTriTrungBinh\KiemTraSoNguyenTo\bin\x86\Debug\KiemTraSoNguyenTo.exe
+C:\TimGiaTriTrungBinh\KiemTraSoNguyenTo\bin\x86\Debug\KiemTraSoNguyenTo.pdb
+C:\TimGiaTriTrungBinh\KiemTraSoNguyenTo\obj\x86\Debug\KiemTraSoNguyenTo_Ngoc28_Vien53.csproj.AssemblyReference.cache
+C:\TimGiaTriTrungBinh\KiemTraSoNguyenTo\obj\x86\Debug\KiemTraSoNguyenTo.Form1.resources
+C:\TimGiaTriTrungBinh\KiemTraSoNguyenTo\obj\x86\Debug\KiemTraSoNguyenTo.Properties.Resources.resources
+C:\TimGiaTriTrungBinh\KiemTraSoNguyenTo\obj\x86\Debug\KiemTraSoNguyenTo_Ngoc28_Vien53.csproj.GenerateResource.cache
+C:\TimGiaTriTrungBinh\KiemTraSoNguyenTo\obj\x86\Debug\KiemTraSoNguyenTo_Ngoc28_Vien53.csproj.CoreCompileInputs.cache
+C:\TimGiaTriTrungBinh\KiemTraSoNguyenTo\obj\x86\Debug\KiemTraSoNguyenTo.exe
+C:\TimGiaTriTrungBinh\KiemTraSoNguyenTo\obj\x86\Debug\KiemTraSoNguyenTo.pdb

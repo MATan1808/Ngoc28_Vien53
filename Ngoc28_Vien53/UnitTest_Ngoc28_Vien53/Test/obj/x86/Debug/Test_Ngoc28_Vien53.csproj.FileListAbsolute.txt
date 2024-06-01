@@ -1,0 +1,35 @@
+C:\TimGiaTriTrungBinh\Test\obj\x86\Debug\Test_Ngoc28_Vien53.csproj.AssemblyReference.cache
+C:\TimGiaTriTrungBinh\Test\obj\x86\Debug\Test_Ngoc28_Vien53.csproj.CoreCompileInputs.cache
+C:\TimGiaTriTrungBinh\Test\obj\x86\Debug\Test.dll
+C:\TimGiaTriTrungBinh\Test\obj\x86\Debug\Test.pdb
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\Test.dll
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\Test.pdb
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\Bai 2_28_KimNgoc.exe
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\GiaiPhuongTrinhBac1va2.exe
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\KiemTraDauVaoEmail.exe
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\KiemTraSoNguyenTo.exe
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\TimGiaTriTrungBinh.exe
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\XetHocBong.exe
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\Bai 2_28_KimNgoc.pdb
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\Bai 2_28_KimNgoc.exe.config
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\GiaiPhuongTrinhBac1va2.pdb
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\GiaiPhuongTrinhBac1va2.exe.config
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\KiemTraDauVaoEmail.pdb
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\KiemTraDauVaoEmail.exe.config
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\KiemTraSoNguyenTo.pdb
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\KiemTraSoNguyenTo.exe.config
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\TimGiaTriTrungBinh.pdb
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\TimGiaTriTrungBinh.exe.config
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\XetHocBong.pdb
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\XetHocBong.exe.config
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\TimGiaTriTrungBinh\Test\obj\x86\Debug\Test_Ngo.32893E41.Up2Date
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\Data\TestNT.csv
+C:\TimGiaTriTrungBinh\Test\bin\x86\Debug\Data\TestPower.csv

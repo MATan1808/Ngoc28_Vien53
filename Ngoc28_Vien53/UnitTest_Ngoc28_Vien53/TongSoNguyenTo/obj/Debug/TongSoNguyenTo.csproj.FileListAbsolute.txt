@@ -1,0 +1,10 @@
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TongSoNguyenTo\bin\Debug\TongSoNguyenTo.exe.config
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TongSoNguyenTo\bin\Debug\TongSoNguyenTo.exe
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TongSoNguyenTo\bin\Debug\TongSoNguyenTo.pdb
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TongSoNguyenTo\obj\Debug\TongSoNguyenTo.csproj.AssemblyReference.cache
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TongSoNguyenTo\obj\Debug\TongSoNguyenTo.Properties.Resources.resources
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TongSoNguyenTo\obj\Debug\TongSoNguyenTo.csproj.GenerateResource.cache
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TongSoNguyenTo\obj\Debug\TongSoNguyenTo.csproj.CoreCompileInputs.cache
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TongSoNguyenTo\obj\Debug\TongSoNguyenTo.exe
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TongSoNguyenTo\obj\Debug\TongSoNguyenTo.pdb
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\TongSoNguyenTo\obj\Debug\TongSoNguyenTo.danhsach.resources

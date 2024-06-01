@@ -1,0 +1,10 @@
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\KiemTraSoNguyenTo\bin\Debug\KiemTraSoNguyenTo.exe.config
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\KiemTraSoNguyenTo\bin\Debug\KiemTraSoNguyenTo.exe
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\KiemTraSoNguyenTo\bin\Debug\KiemTraSoNguyenTo.pdb
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\KiemTraSoNguyenTo\obj\Debug\KiemTraSoNguyenTo.csproj.AssemblyReference.cache
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\KiemTraSoNguyenTo\obj\Debug\KiemTraSoNguyenTo.Form1.resources
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\KiemTraSoNguyenTo\obj\Debug\KiemTraSoNguyenTo.Properties.Resources.resources
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\KiemTraSoNguyenTo\obj\Debug\KiemTraSoNguyenTo.csproj.GenerateResource.cache
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\KiemTraSoNguyenTo\obj\Debug\KiemTraSoNguyenTo.csproj.CoreCompileInputs.cache
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\KiemTraSoNguyenTo\obj\Debug\KiemTraSoNguyenTo.exe
+C:\Users\maclife\source\repos\TimGiaTriTrungBinh\KiemTraSoNguyenTo\obj\Debug\KiemTraSoNguyenTo.pdb

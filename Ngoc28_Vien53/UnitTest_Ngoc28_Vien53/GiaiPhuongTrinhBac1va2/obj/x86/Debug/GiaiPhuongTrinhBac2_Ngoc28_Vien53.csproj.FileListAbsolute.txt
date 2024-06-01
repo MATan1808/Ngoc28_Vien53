@@ -1,0 +1,10 @@
+C:\TimGiaTriTrungBinh\GiaiPhuongTrinhBac1va2\bin\x86\Debug\GiaiPhuongTrinhBac1va2.exe.config
+C:\TimGiaTriTrungBinh\GiaiPhuongTrinhBac1va2\bin\x86\Debug\GiaiPhuongTrinhBac1va2.exe
+C:\TimGiaTriTrungBinh\GiaiPhuongTrinhBac1va2\bin\x86\Debug\GiaiPhuongTrinhBac1va2.pdb
+C:\TimGiaTriTrungBinh\GiaiPhuongTrinhBac1va2\obj\x86\Debug\GiaiPhuongTrinhBac2_Ngoc28_Vien53.csproj.AssemblyReference.cache
+C:\TimGiaTriTrungBinh\GiaiPhuongTrinhBac1va2\obj\x86\Debug\GiaiPhuongTrinhBac1va2.Form1.resources
+C:\TimGiaTriTrungBinh\GiaiPhuongTrinhBac1va2\obj\x86\Debug\GiaiPhuongTrinhBac1va2.Properties.Resources.resources
+C:\TimGiaTriTrungBinh\GiaiPhuongTrinhBac1va2\obj\x86\Debug\GiaiPhuongTrinhBac2_Ngoc28_Vien53.csproj.GenerateResource.cache
+C:\TimGiaTriTrungBinh\GiaiPhuongTrinhBac1va2\obj\x86\Debug\GiaiPhuongTrinhBac2_Ngoc28_Vien53.csproj.CoreCompileInputs.cache
+C:\TimGiaTriTrungBinh\GiaiPhuongTrinhBac1va2\obj\x86\Debug\GiaiPhuongTrinhBac1va2.exe
+C:\TimGiaTriTrungBinh\GiaiPhuongTrinhBac1va2\obj\x86\Debug\GiaiPhuongTrinhBac1va2.pdb
